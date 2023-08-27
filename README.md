@@ -4,5 +4,5 @@
 <img src="https://media.giphy.com/media/f6hnhHkks8bk4jwjh3/giphy.gif" width="190" height="190" style="vertical-align:middle;margin:0px 50px>
 
   
-👾 Currently learning **JAVA**
-📧 **anaswaraku17@gmail.com**
+
+<a href="anaswaraku17@gmail.com">📧anaswaraku17@gmail.com</a>
