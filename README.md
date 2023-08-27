@@ -6,3 +6,4 @@
   
 
 <a href="anaswaraku17@gmail.com">📧anaswaraku17@gmail.com</a>
+<a href="https://www.linkedin.com/in/anaswara-k-u-98072a227" ><br>LinkedIn</a>
