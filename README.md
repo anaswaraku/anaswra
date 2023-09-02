@@ -1,8 +1,6 @@
 <h1 align="center">Hi  I'm Anaswara 🤖</h1>
 
-<img src="https://media.giphy.com/media/f6hnhHkks8bk4jwjh3/giphy.gif" width="190" height="190" style="vertical-align:middle;margin:0px 50px>
-<a><img src="">
-</a>
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
