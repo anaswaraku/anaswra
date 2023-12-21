@@ -2,4 +2,4 @@
 
 - Interested in coding
 
--  I’m currently learning **AI and ML**
+-  Currently learning **AI and ML**
